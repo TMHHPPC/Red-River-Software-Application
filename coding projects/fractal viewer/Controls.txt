@@ -1,0 +1,3 @@
+Controls:
+Click and drag to highlight a area of the screen to zoom into
+press escape to cancel this if you want
