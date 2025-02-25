@@ -181,7 +181,6 @@ def send():
     #fetches the message from the message field
     message = text_field.get(1.0, END)
     text_field.delete(1.0, END)
-    message = message.replace("\n", "")
     #checks to make sure you're just not sending an empty message -T
     if message != "":
         #checks to ensure there are no breaks at the end of the line -T
